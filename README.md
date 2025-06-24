@@ -35,7 +35,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <details>
-<summary>Clicca per espandere le tecnologie che uso</summary>
+<summary>Click to view technologies I work with</summary>
 
 <table>
   <tr>
