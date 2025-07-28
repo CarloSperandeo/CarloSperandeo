@@ -111,16 +111,16 @@
 
 <table>
   <tr>
-    <td align="center" valign="middle">
-      <a href="https://coursera.org/share/7fcfb848fdf3135ac6d692de1a660657" target="_blank">
-        <img src="https://img.shields.io/badge/Google%20Project%20Management-DB4437?style=for-the-badge&logo=google&logoColor=white" /><br/>
+    <td align="center">
+      <a href="https://coursera.org/share/7fcfb848fdf3135ac6d692de1a660657" rel="nofollow">
+        <img src="https://img.shields.io/badge/Google%20Project%20Management-DB4437?style=for-the-badge&logo=google&logoColor=white" style="display:block; height:27px; width:250px; max-width:100%;" />
       </a>
     </td>
   </tr>
-    <tr>
-    <td align="center" valign="middle">
-      <a href="https://coursera.org/share/27108a64b553849830413e825b3f573b" target="_blank">
-        <img src="https://img.shields.io/badge/Meta%20Front--End%20Developer-1877F2?style=for-the-badge&logo=meta&logoColor=white" /><br/>
+  <tr>
+    <td align="center">
+      <a href="https://coursera.org/share/27108a64b553849830413e825b3f573b" rel="nofollow">
+        <img src="https://img.shields.io/badge/Meta%20Front--End%20Developer-1877F2?style=for-the-badge&logo=meta&logoColor=white" style="display:block; height:27px; width:250px; max-width:100%;" />
       </a>
     </td>
   </tr>
