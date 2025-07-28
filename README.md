@@ -111,7 +111,14 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" valign="middle">
+      <a href="https://coursera.org/share/7fcfb848fdf3135ac6d692de1a660657" target="_blank">
+        <img src="https://img.shields.io/badge/Google%20Project%20Management-DB4437?style=for-the-badge&logo=google&logoColor=white" /><br/>
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td align="center" valign="middle">
       <a href="https://coursera.org/share/27108a64b553849830413e825b3f573b" target="_blank">
         <img src="https://img.shields.io/badge/Meta%20Front--End%20Developer-1877F2?style=for-the-badge&logo=meta&logoColor=white" /><br/>
       </a>
@@ -126,6 +133,6 @@
 
 ![CarloSperandeo](https://komarev.com/ghpvc/?username=CarloSperandeo&label=Profile%20views&color=0e75b6&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-csperandeo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/csperandeo/)
-[![Website](https://img.shields.io/badge/Portfolio-carlosperandeo.com-informational?style=for-the-badge&logo=about-dot-me&logoColor=white)](http://www.carlosperandeo.com)
+[![Website](https://img.shields.io/badge/Portfolio-sperandeo.pm-informational?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://sperandeo.pm)
 
 ---
